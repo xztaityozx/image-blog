@@ -5,7 +5,7 @@ tags:
   - シノアリス
 ---
 
-![img](/images/ibara-half-nightmare.png)
+![img](/image-blog/images/ibara-half-nightmare.png)
 
 シノアリスのいばら姫/ハーフナイトメアです。人気投票3位にいばら姫がランクインしたのでお祝いに描きました
 

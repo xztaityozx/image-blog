@@ -4,7 +4,7 @@ date: 2019-03-30 13:59:33
 tags:
 ---
 
-![img](/images/precure_curetowincle.png)
+![img](/image-blog/images/precure_curetowincle.png)
 
 Go!プリンセスプリキュアのキュアトゥインクルです。彼女の生き方を割と尊敬しています
 

@@ -5,7 +5,7 @@ tags:
   - シノアリス
 ---
 
-<img src="/images/D2eSShuUkAAzbfL.png" width=60%>
+<img src="/image-blog/images/D2eSShuUkAAzbfL.png" width=60%>
 
 シノアリスのいばら姫です。シチュエーションは「遠洋漁業に赴くも昼寝してしまい夜になっても以前眠るいばら姫」です
 

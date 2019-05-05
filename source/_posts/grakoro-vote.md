@@ -5,7 +5,7 @@ tags:
   - シノアリス
 ---
 
-![](/images/grakoro_vote.png)
+![](/image-blog/images/grakoro_vote.png)
 
 グランコロシアムの投票を促すために描いたドット絵です。枠線の中に文字を入れる練習に打ちました
 

@@ -5,7 +5,7 @@ tags:
   - けものフレンズ
 ---
 
-<img src="/images/gingitune.png" width=60%>
+<img src="/image-blog/images/gingitune.png" width=60%>
 
 けものフレンズのギンギツネです。アニメで観てかわいいなと思ったので描きました
 

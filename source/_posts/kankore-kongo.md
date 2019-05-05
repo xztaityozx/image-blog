@@ -5,8 +5,8 @@ tags:
   - 艦これ
 ---
 
-<!--![img](/images/kankore_kongo.png)-->
-<img src="/images/kankore_kongo.png" width=60%>
+<!--![img](/image-blog/images/kankore_kongo.png)-->
+<img src="/image-blog/images/kankore_kongo.png" width=60%>
 
 艦これ・金剛改二のファンアートです。頼れるお姉様枠もギャグ枠もこなせる明るいお姉さんで好きです。幼馴染にほしい
 

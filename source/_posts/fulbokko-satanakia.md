@@ -5,7 +5,7 @@ tags:
   - フルボッコヒーローズ
 ---
 
-![img](/images/satanachia.png)
+![img](/image-blog/images/satanachia.png)
 
 フルボッコヒーローズXのサタナキアです。ブーシュヤンスターが欲しくて回したガチャで出てきてくれてからずっとPT1のリーダーをやっていますね。因みにブーシュヤンスターは出ませんでした
 

@@ -5,7 +5,7 @@ tags:
   - 艦これ
 ---
 
-<img src="/images/kankore_zuiho.png" width=60%>
+<img src="/image-blog/images/kankore_zuiho.png" width=60%>
 
 艦これ・瑞鳳です。知人に描いたものでしたが渡し損ねました
 

@@ -5,8 +5,8 @@ tags:
   - ワンダーランドウォーズ
 ---
 
-<!--![200%](/images/wlw_rin_mixa.png)-->
-<img src="/images/wlw_rin_mixa.png" width=60%>
+<!--![200%](/image-blog/images/wlw_rin_mixa.png)-->
+<img src="/image-blog/images/wlw_rin_mixa.png" width=60%>
 
 Wonderland Warsのリンとミクサです。このコンビが好きです。ドラマCDも良かったですね
 

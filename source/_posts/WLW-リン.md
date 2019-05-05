@@ -5,8 +5,8 @@ tags:
   - ワンダーランドウォーズ
 ---
 
-<!--![img](/images/wlw_rin.png)-->
-<img src="/images/wlw_rin.png" width=50%>
+<!--![img](/image-blog/images/wlw_rin.png)-->
+<img src="/image-blog/images/wlw_rin.png" width=50%>
 
 Wonderland Warsのキャスト リンです。性格や見た目、やたら長い本名も好きでした
 

@@ -5,7 +5,7 @@ tags:
   - フルボッコヒーローズ
 ---
 
-<img src="/images/bokkonomi.png" width=60%>
+<img src="/image-blog/images/bokkonomi.png" width=60%>
 
 フルボッコヒーローズXのボッコの実です。いわゆる課金石です
 
