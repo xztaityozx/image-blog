@@ -5,5 +5,5 @@ title: トップ記事
 
 無断転載、再配布はダメです
 
-アイコンなどへの利用はOKですが、[Twitter](https://twitter.com/xztaityozx_002) にひとことお願いします
+アイコンなどへの利用はOKですが、[Twitter](https://twitter.com/taityo_game) にひとことお願いします
 
