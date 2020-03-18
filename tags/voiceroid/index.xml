@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VOICEROID on Images</title>
+    <link>http://example.org/tags/voiceroid/</link>
+    <description>Recent content in VOICEROID on Images</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 22 Dec 2019 19:51:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/voiceroid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VOICEROID2 紲星あかり/HBD</title>
+      <link>http://example.org/akari-hbd/</link>
+      <pubDate>Sun, 22 Dec 2019 19:51:56 +0000</pubDate>
+      
+      <guid>http://example.org/akari-hbd/</guid>
+      <description>Happy Birthday!!あかりちゃん!!日々文章の校正とかを手伝ってくれる紲星あかりちゃんのお誕生日なので1枚描きました。いつもどおり64x6</description>
+    </item>
+    
+    <item>
+      <title>VOICEROID2 紲星あかり</title>
+      <link>http://example.org/kizuna-akari/</link>
+      <pubDate>Sun, 02 Jun 2019 16:37:40 +0000</pubDate>
+      
+      <guid>http://example.org/kizuna-akari/</guid>
+      <description>VOICEROID2 紲星あかりです。64x64サイズで打った後800%で出力しています。使用ツールはAsepriteです。腕だけポーズを考えて打ってみました。</description>
+    </item>
+    
+  </channel>
+</rss>
