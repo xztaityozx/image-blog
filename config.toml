@@ -9,4 +9,4 @@ hasCJKLanguage = true
   tag = "tags"
 
 [params]
-  customCSS = ["/css/custom.css"]
+  customCSS = ["/image-blog/css/custom.css"]
