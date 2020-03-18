@@ -4,7 +4,7 @@ date: 2019-03-30 14:22:41
 tags:
   - シノアリス
 imgs:
-  - /images/ibara-half-nightmare.png
+  - /image-blog/images/ibara-half-nightmare.png
 ---
 
 

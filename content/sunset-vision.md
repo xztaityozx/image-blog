@@ -4,7 +4,7 @@ date: 2019-05-21 00:03:58
 tags:
   - フルボッコヒーローズ
 imgs:
-  - /images/sunset-vision.png
+  - /image-blog/images/sunset-vision.png
 ---
 
 ヴィジョンの日が沈む。毎日のことだが今日は少し違う

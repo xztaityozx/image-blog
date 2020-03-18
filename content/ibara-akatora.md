@@ -4,7 +4,7 @@ date: 2019-08-12 18:09:05
 tags:
   - シノアリス
 imgs:
-  - /images/ibara-akatora.png
+  - /image-blog/images/ibara-akatora.png
 ---
 シノアリスからいばら姫/赫虎のソーサラーです。なんて読むのかな？かくこ？あかとら？今回も64x64pxで打ってから800％に拡大しています。模様が難しかったです
 

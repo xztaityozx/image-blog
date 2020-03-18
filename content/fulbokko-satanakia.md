@@ -4,7 +4,7 @@ date: 2019-03-30 14:05:23
 tags:
   - フルボッコヒーローズ
 imgs:
-  - /images/satanachia.png
+  - /image-blog/images/satanachia.png
 ---
 
 

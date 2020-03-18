@@ -4,7 +4,7 @@ date: 2019-03-30 13:45:33
 tags: 
   - 艦これ
 imgs:
-  - /images/kankore_zuikaku.png
+  - /image-blog/images/kankore_zuikaku.png
 ---
 
 艦これ・瑞鳳です。知人に描いたものでしたが渡し損ねました

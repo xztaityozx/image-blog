@@ -4,7 +4,7 @@ date: 2019-12-22 19:51:56
 tags:
   - VOICEROID
 imgs:
-  - /images/akari-hbd.png
+  - /image-blog/images/akari-hbd.png
 ---
 
 Happy Birthday!!あかりちゃん!!日々文章の校正とかを手伝ってくれる紲星あかりちゃんのお誕生日なので1枚描きました。いつもどおり64x64のサイズで打った後に1000%に拡大出力しています。  

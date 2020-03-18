@@ -4,7 +4,7 @@ date: 2019-06-02 16:37:40
 tags:
   - VOICEROID
 imgs:
-  - /images/kizuna-akari.png
+  - /image-blog/images/kizuna-akari.png
 ---
 
 
@@ -14,7 +14,7 @@ VOICEROID2 紲星あかりです。64x64サイズで打った後800%で出力し
 
 ---
 
-[紲星あかり-1080x1920](/images/akari-wall.png)
+[紲星あかり-1080x1920](/image-blog/images/akari-wall.png)
 
 今回はスマホの壁紙(1080x1920)のサイズ版も作ってみました。僕が使おうと思って作ったやつですが、よければ使ってください
 

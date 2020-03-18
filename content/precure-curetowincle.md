@@ -4,7 +4,7 @@ date: 2019-03-30 13:59:33
 tags:
   - プリキュア
 imgs:
-  - /images/precure_curetowincle.png
+  - /image-blog/images/precure_curetowincle.png
 ---
 
 

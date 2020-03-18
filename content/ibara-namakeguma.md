@@ -4,7 +4,7 @@ date: 2019-10-06 16:49:51
 tags:
   - シノアリス
 imgs:
-  - /images/ibara-namakeguma.png
+  - /image-blog/images/ibara-namakeguma.png
 ---
 
 いばら姫/怠熊のミンストレルです。64x64で打ってから800％に拡大しています。椅子の模様が難しかったです

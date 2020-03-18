@@ -4,7 +4,7 @@ date: 2019-07-20 23:32:42
 tags:
   - シノアリス
 imgs:
-  - /images/ibara-hunro.png
+  - /image-blog/images/ibara-hunro.png
 ---
 
 いばら姫/憤狼のクラッシャーです。64x64で打ってから800%に拡大しています。何度か顔を書き直したんですが、あんまりうまくいかなかった作品です。ぐぬぬ…

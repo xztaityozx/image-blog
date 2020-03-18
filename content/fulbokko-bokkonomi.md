@@ -4,7 +4,7 @@ date: 2019-03-30 14:13:05
 tags:
   - フルボッコヒーローズ
 imgs:
-  - /images/bokkonomi.png
+  - /image-blog/images/bokkonomi.png
 ---
 
 

@@ -4,7 +4,7 @@ date: 2019-03-30 14:29:13
 tags:
   - シノアリス
 imgs:
-  - /images/D2eSShuUkAAzbfL.png
+  - /image-blog/images/D2eSShuUkAAzbfL.png
 ---
 
 

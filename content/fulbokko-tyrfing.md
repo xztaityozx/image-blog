@@ -5,7 +5,7 @@ tags:
  - フルボッコヒーローズ
  - ドット絵テンプレート
 imgs:
-  - /images/tyrfing.png
+  - /image-blog/images/tyrfing.png
 ---
 
 
@@ -22,7 +22,7 @@ imgs:
 ところで今回は自分の中での翻訳方法を見つけたのでそれも記録しておきます。まぁ見つけたと言うほど大げさではないんですが…  
 題材はレースリボンやフリルリボンなどです
 
-![](/images/flill-test.png#center)
+![](/image-blog/images/flill-test.png#center)
 
 「単体で見せられても何かわかんない」という感じですが、このパターンを裾などにそれとなく並べると、なんとなくフリフリをつけることができそうです
 

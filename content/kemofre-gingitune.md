@@ -4,7 +4,7 @@ date: 2019-03-30 13:52:22
 tags:
   - けものフレンズ
 imgs:
-  - /images/gingitune.png
+  - /image-blog/images/gingitune.png
 ---
 
 けものフレンズのギンギツネです。アニメで観てかわいいなと思ったので描きました

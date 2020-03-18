@@ -4,7 +4,7 @@ date: 2019-05-01 11:42:33
 tags:
   - フルボッコヒーローズ
 imgs:
-  - /images/ceres.png
+  - /image-blog/images/ceres.png
 ---
 
 

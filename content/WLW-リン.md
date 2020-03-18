@@ -4,7 +4,7 @@ date: 2019-03-30 11:56:15
 tags:
   - ワンダーランドウォーズ
 imgs:
-  - /images/wlw_rin.png
+  - /image-blog/images/wlw_rin.png
 ---
 
 Wonderland Warsのキャスト リンです。性格や見た目、やたら長い本名も好きでした

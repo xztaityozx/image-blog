@@ -4,7 +4,7 @@ date: 2019-10-27 22:53:21
 tags:
   - イベント
 imgs:
-  - /images/dotpict_helloween.png
+  - /image-blog/images/dotpict_helloween.png
 ---
 
 [ドットピクトのハロウィン企画](https://twitter.com/dotpict/status/1187946667179249665) に参加しました。テンプレを使ってマスコットキャラのピク子を仮装させるという企画です

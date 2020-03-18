@@ -4,7 +4,7 @@ date: 2019-03-30 13:31:13
 tags:
   - ワンダーランドウォーズ
 imgs:
-  - /images/wlw_rin_mixa.png
+  - /image-blog/images/wlw_rin_mixa.png
 ---
 
 Wonderland Warsのリンとミクサです。このコンビが好きです。ドラマCDも良かったですね

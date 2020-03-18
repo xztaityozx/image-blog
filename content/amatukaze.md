@@ -4,7 +4,7 @@ date: 2019-11-13 21:09:38
 tags:
   - 艦これ
 imgs:
-  - /images/amatukaze.png
+  - /image-blog/images/amatukaze.png
 ---
 
 

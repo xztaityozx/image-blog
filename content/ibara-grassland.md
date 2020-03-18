@@ -4,7 +4,7 @@ date: 2020-02-11 20:39:33
 tags:
   - シノアリス
 imgs:
-  - /images/grassland.png
+  - /image-blog/images/grassland.png
 ---
 
 シノアリスからいばら姫です。92x48pxで打ってから1000%に拡大しています。使った色は20色です。こんな平和なシーンが本編にもあるといいんですけど。
@@ -18,7 +18,7 @@ imgs:
 
 せっかく縦長の絵にしたのでスマホ壁紙向けに1920x1080にリサイズしたものをUPしておきます。
 
-[草原でお昼寝-1920x1080](/images/grassland-1920x1080.png)
+[草原でお昼寝-1920x1080](/image-blog/images/grassland-1920x1080.png)
 
 ### リンク
 [SINoALICE](http://sinoalice.jp)

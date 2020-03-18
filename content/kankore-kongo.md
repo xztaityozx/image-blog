@@ -4,7 +4,7 @@ date: 2019-03-30 13:05:00
 tags:
   - 艦これ
 imgs:
-  - /images/kankore_kongo.png
+  - /image-blog/images/kankore_kongo.png
 ---
 
 艦これ・金剛改二のファンアートです。頼れるお姉様枠もギャグ枠もこなせる明るいお姉さんで好きです。幼馴染にほしい
