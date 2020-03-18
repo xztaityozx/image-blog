@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ range .Site.Params.customCSS }}
+<link rel="stylesheet" href="{{ . | absURL }}" >
+{{ end }}
+  {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
+  {{ range sort .Paginator.Pages }}
+  <article class="markdown book-post">
+    <h2>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    {{ partial "docs/post-meta" . }}
+    <p>
+      {{ range .Params.imgs }} <p><img class="tags" style="width: 64px" src="{{ . | absURL }}"></p> {{ end }}
+      {{- .Summary -}}
+      {{ if .Truncated }}
+      <a href="{{ .RelPermalink }}">...</a>
+      {{ end }}
+    </p>
+  </article>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/taxonomy" . }}
+{{ end }}

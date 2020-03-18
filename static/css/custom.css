@@ -1,0 +1,50 @@
+img.blog,img[src$='#center'] {
+  display: block;
+  margin: 1.0rem auto;
+  max-width: 100%;
+  height: auto;
+}
+
+img.tags {
+  width: 64px;
+  height: auto;
+}
+
+li.list {
+  color: #009688;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+a.p {
+  margin-left: 1rem;
+}
+
+a.n {
+  margin-right: 1rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #004D40;
+}
+a:link {
+  color: #00796B;
+}
+
+a.listelm {
+  font-size: 26px;
+}
+
+article.single {
+  font-size: 18px;
+}
+
+div.listmeta {
+  color: #00695C;
+  font-size: 12px;
+  padding-left: 2rem;
+}

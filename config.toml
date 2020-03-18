@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+title = "Images"
+theme = "book"
+summayLength = 70
+hasCJKLanguage = true
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  customCSS = ["/css/custom.css"]
