@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>艦これ on Images</title>
-    <link>http://example.org/tags/%E8%89%A6%E3%81%93%E3%82%8C/</link>
+    <link>https://xztaityozx.github.io/image-blog/tags/%E8%89%A6%E3%81%93%E3%82%8C/</link>
     <description>Recent content in 艦これ on Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 13 Nov 2019 21:09:38 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/%E8%89%A6%E3%81%93%E3%82%8C/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xztaityozx.github.io/image-blog/tags/%E8%89%A6%E3%81%93%E3%82%8C/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>艦これ 天津風</title>
-      <link>http://example.org/amatukaze/</link>
+      <link>https://xztaityozx.github.io/image-blog/amatukaze/</link>
       <pubDate>Wed, 13 Nov 2019 21:09:38 +0000</pubDate>
       
-      <guid>http://example.org/amatukaze/</guid>
+      <guid>https://xztaityozx.github.io/image-blog/amatukaze/</guid>
       <description>艦これから天津風です。64x64で打ってから800％に拡大しています。今回は2等身ぐらいを意識して打ちました。首周りがよくわからないことにな</description>
     </item>
     
     <item>
       <title>艦これ 瑞鳳</title>
-      <link>http://example.org/kankore-zuiho/</link>
+      <link>https://xztaityozx.github.io/image-blog/kankore-zuiho/</link>
       <pubDate>Sat, 30 Mar 2019 13:45:33 +0000</pubDate>
       
-      <guid>http://example.org/kankore-zuiho/</guid>
+      <guid>https://xztaityozx.github.io/image-blog/kankore-zuiho/</guid>
       <description>艦これ・瑞鳳です。知人に描いたものでしたが渡し損ねました ちょっと肩が外に出てますね… リンク 艦これ</description>
     </item>
     
     <item>
       <title>艦これ 金剛改二</title>
-      <link>http://example.org/kankore-kongo/</link>
+      <link>https://xztaityozx.github.io/image-blog/kankore-kongo/</link>
       <pubDate>Sat, 30 Mar 2019 13:05:00 +0000</pubDate>
       
-      <guid>http://example.org/kankore-kongo/</guid>
+      <guid>https://xztaityozx.github.io/image-blog/kankore-kongo/</guid>
       <description>艦これ・金剛改二のファンアートです。頼れるお姉様枠もギャグ枠もこなせる明るいお姉さんで好きです。幼馴染にほしい そういえば艦これもしばらくやっ</description>
     </item>
     
