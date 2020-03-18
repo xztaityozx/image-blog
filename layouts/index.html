@@ -20,7 +20,7 @@
       <a class="listelm" href="{{.Permalink}}">{{.Title}}</a>
       <nav>
         <div class="listmeta">{{ .Date.Format "2006-01-02" }}</div>
-        {{ with .Params.tags }}<div class="listmeta">{{ range . }} <a href="/tags/{{ . }}/">#{{ . }}</a>{{ end }}</div>{{ end }}
+        {{ with .Params.tags }}<div class="listmeta">{{ range . }} <a href="/image-blog/tags/{{ . }}/">#{{ . }}</a>{{ end }}</div>{{ end }}
         <nav>
     </li>
     {{ end }}
