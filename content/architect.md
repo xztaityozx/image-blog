@@ -1,5 +1,5 @@
 ---
-title: "Architect"
+title: "FAガール アーキテクト"
 date: 2020-05-15T22:34:41+09:00
 draft: false
 tags:
